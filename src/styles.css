@@ -1,0 +1,5 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.done{
+  text-decoration: line-through;
+}
