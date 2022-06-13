@@ -1,0 +1,18 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.done{
+  text-decoration: line-through;
+}
+
+button.btn:hover{
+  cursor: pointer;
+  background: darkblue;
+}
+
+td.removing-x:hover{
+  cursor: pointer;
+}
+
+td.todo-text:hover{
+  cursor: pointer;
+}
